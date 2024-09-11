@@ -4,7 +4,7 @@ const ItemListContainer = ({ greeting }) => {
         style={{
           fontSize: "2rem",
           fontWeight: "bold",
-          height: "90vh",
+          height: "40vh",
           width: "100vw",
           display: "flex",
           alignItems: "center",
